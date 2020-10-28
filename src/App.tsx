@@ -1,6 +1,6 @@
 import './App.css';
 import React from 'react';
-import { Gitgraph } from '@gitgraph/react';
+import { Gitgraph, Mode } from '@gitgraph/react';
 import { useStyles } from './styles/Styles';
 import { AppBar, Grid, IconButton, Paper, Toolbar, Typography } from '@material-ui/core';
 import { DynamicGitgraph } from './components/DynamicGitgraph';
@@ -13,11 +13,8 @@ function App() {
 
 
   return (
-    <html>
-      <header>
+    <div>
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
-      </header>
-      <body>
         <div className={classes.root}>
           <Grid container spacing={3}>
             <Grid item xs={12}>
@@ -31,9 +28,9 @@ function App() {
             </Grid>
             <DynamicGitgraph classes={classes} />
           </Grid>
+
         </div>
-      </body>
-    </html>
+    </div>
   );
 }
 
