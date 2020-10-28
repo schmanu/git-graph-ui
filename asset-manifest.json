@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/git-graph-ui/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/git-graph-ui/static/js/main.1f996895.chunk.js",
+    "main.js.map": "/git-graph-ui/static/js/main.1f996895.chunk.js.map",
+    "runtime-main.js": "/git-graph-ui/static/js/runtime-main.39ee0e87.js",
+    "runtime-main.js.map": "/git-graph-ui/static/js/runtime-main.39ee0e87.js.map",
+    "static/js/2.c49dbdd6.chunk.js": "/git-graph-ui/static/js/2.c49dbdd6.chunk.js",
+    "static/js/2.c49dbdd6.chunk.js.map": "/git-graph-ui/static/js/2.c49dbdd6.chunk.js.map",
+    "index.html": "/git-graph-ui/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/git-graph-ui/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.c49dbdd6.chunk.js.LICENSE.txt": "/git-graph-ui/static/js/2.c49dbdd6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39ee0e87.js",
+    "static/js/2.c49dbdd6.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.1f996895.chunk.js"
+  ]
+}
